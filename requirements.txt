@@ -1,4 +1,7 @@
+dash==2.6.1
 dash_bio==1.0.1
+dash_daq==0.5.0
+jupyter_dash==0.4.2
 lorem_text==2.1
 matplotlib==3.5.1
 networkx==2.7.1
