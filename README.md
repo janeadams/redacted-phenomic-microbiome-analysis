@@ -7,3 +7,5 @@
 - Run part one `final_pt1.ipynb`.
 
 - Run part two `final_pt2.ipynb`.
+
+- Optional: Run `tree_dashboard.ipynb` to see exploratory dashboard.
